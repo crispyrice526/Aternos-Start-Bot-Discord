@@ -4,6 +4,8 @@ Requires:
 Up To Date NodeJS (https://nodejs.org/en)
 
 Nodemon (npm install -g nodemon)
+Discord.js (npm install discord.js)
+Dotenv (npm install dotenv)
 
 1. Go to chrome://extensions/ in your chrome browser.
 2. Once There Click Load unpacked in the top left corner. Select the folder titled
